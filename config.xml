@@ -2,7 +2,7 @@
 <Configuration>
     <ID>3</ID>
     <ObjectName>Автозапчасть</ObjectName>
-    <Server>http://stalker.megadevices.com.ua/add_log.php</Server>
+    <Server>http://priborohrani.dyndns.org:8080/logs</Server>
     <APN>www.mts.ua</APN>
     <MasterToken>6B4F69ED</MasterToken>
     <PhoneBook>
@@ -12,8 +12,8 @@
     <SaveLogcatLogs>true</SaveLogcatLogs>
     <SendSMSAfterServicesFail>false</SendSMSAfterServicesFail>
     <UpdateTime>16:00</UpdateTime>
-    <UpdateInterval>60</UpdateInterval>
-    <LogUploadingInterval>60</LogUploadingInterval>
+    <UpdateInterval>01</UpdateInterval>
+    <LogUploadingInterval>01</LogUploadingInterval>
     <USSDTime>23:19</USSDTime>
     <USSDString>*101#</USSDString>
 </Configuration>
