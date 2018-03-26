@@ -11,19 +11,19 @@
 		<Point>
 			<UID>A456731A</UID>
 			<Name>Point 1A</Name>
-			<DelayBeforeActivation>00:00:05</DelayBeforeActivation>
+			<DelayBeforeActivation>00:01:05</DelayBeforeActivation>
 			<ReadTime>00:02:00</ReadTime>
 		</Point>
 		<Point>
 			<UID>60776F3B</UID>
 			<Name>Point 2A</Name>
-			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
+			<DelayBeforeActivation>00:01:00</DelayBeforeActivation>
 			<ReadTime>00:04:30</ReadTime>
 		</Point>
 		<Point>
 			<UID>4ABC4E39</UID>
 			<Name>Point 3A</Name>
-			<DelayBeforeActivation>00:02:00</DelayBeforeActivation>
+			<DelayBeforeActivation>00:01:00</DelayBeforeActivation>
 			<ReadTime>00:04:30</ReadTime>
 		</Point>
 	</NFCPoints>
