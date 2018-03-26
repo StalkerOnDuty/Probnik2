@@ -9,19 +9,19 @@
 	<PresenceControlReactionTime>00:00:59</PresenceControlReactionTime>
 	<NFCPoints>
 		<Point>
-			<UID>A456731A</UID>
+			<UID>7072a5b9</UID>
 			<Name>Point 1A</Name>
 			<DelayBeforeActivation>00:01:05</DelayBeforeActivation>
 			<ReadTime>00:02:00</ReadTime>
 		</Point>
 		<Point>
-			<UID>60776F3B</UID>
+			<UID>c4a9a3b9</UID>
 			<Name>Point 2A</Name>
 			<DelayBeforeActivation>00:01:00</DelayBeforeActivation>
 			<ReadTime>00:04:30</ReadTime>
 		</Point>
 		<Point>
-			<UID>4ABC4E39</UID>
+			<UID>def6a4b9</UID>
 			<Name>Point 3A</Name>
 			<DelayBeforeActivation>00:01:00</DelayBeforeActivation>
 			<ReadTime>00:04:30</ReadTime>
