@@ -3,7 +3,7 @@
 	<StartTime>09:00:00</StartTime>
 	<FinishTime>07:00:00</FinishTime>
 	<RoundPeriod>00:03:00</RoundPeriod>
-	<RoundDelay>00:03:10</RoundDelay>
+	<RoundDelay>00:01:10</RoundDelay>
 	<MinPresenceControlInterval>00:01:00</MinPresenceControlInterval>
 	<MaxPresenceControlInterval>00:01:30</MaxPresenceControlInterval>
 	<PresenceControlReactionTime>00:00:59</PresenceControlReactionTime>
