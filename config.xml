@@ -11,6 +11,7 @@
     </PhoneBook>
     <SaveLogcatLogs>true</SaveLogcatLogs>
     <SendSMSAfterServicesFail>false</SendSMSAfterServicesFail>
+    <RepeatSmsOnTagDelay>false</RepeatSmsOnTagDelay>
     <UpdateTime>16:00</UpdateTime>
     <UpdateInterval>55</UpdateInterval>
     <LogUploadingInterval>55</LogUploadingInterval>
